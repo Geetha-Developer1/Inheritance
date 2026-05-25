@@ -46,10 +46,10 @@ namespace Inheritance
     }
     internal class Program
     {
-        static void Main(string[] args)
-        {
-            student s = new student(1, "Ram", "IIIT");
-            s.studentDisplay();
-        }
+        //static void Main(string[] args)
+        //{
+        //    student s = new student(1, "Ram", "IIIT");
+        //    s.studentDisplay();
+        //}
     }
 }
